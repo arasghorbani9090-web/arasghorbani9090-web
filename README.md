@@ -15,8 +15,8 @@
 </p>
 
 <p align="center">
-  <a href="https://arasghorbani9090-web.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-Visit-0B1E27?style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/arasghorbani"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://qorbani.qa"><img alt="Website" src="https://img.shields.io/badge/Website-qorbani.qa-0B1E27?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/aras-ghorbani-ab1a7b62"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:arasghorbani9090@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Reach%20out-E7C9A0?style=for-the-badge&logo=gmail&logoColor=0B1E27"></a>
 </p>
 
