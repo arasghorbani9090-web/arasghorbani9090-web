@@ -1,8 +1,12 @@
 <!--
-  This README belongs in a repository named EXACTLY: arasghorbani9090
+  This README belongs in a repository named EXACTLY: arasghorbani9090-web
   (same as your GitHub username). GitHub renders it at the top of your profile.
   Paste this file as README.md into that repo.
 -->
+
+<p align="center">
+  <img src="docs/banner.png" alt="Aras Ghorbani — Founder of Souq" width="100%" />
+</p>
 
 <h1 align="center">Aras Ghorbani</h1>
 
